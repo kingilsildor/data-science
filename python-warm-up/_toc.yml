@@ -1,0 +1,10 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: docs/python-warm-up
+parts:
+- caption:
+  chapters:
+  - file: docs/python-warm-up-notebook
+    title: "Notebook"

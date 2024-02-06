@@ -21,10 +21,6 @@ This course expects you to have the following prior knowledge:
 - Basic level of information visualization (e.g., knowing how to draw plots using python packages, understanding the differences between a bar chart and histogram)
 - Basic level of research methods (e.g., knowing what “research questions” mean, understanding basic hypothesis testing methods like t-test)
 
-# Registration
-
-More information about procedures and registration periods can be found at [course registration](https://student.uva.nl/en/topics/course-registration).
-
 # Teaching Method and Contact Hours
 
 - Lecture
